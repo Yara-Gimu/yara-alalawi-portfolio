@@ -5,7 +5,7 @@ Welcome to my professional portfolio repository.
 I am a Computer Science graduate and Cloud Software Engineer specializing in scalable architectures, AI integrations, and high-performance interactive systems. This repository contains the source code for my portfolio, built to showcase a professional trajectory aligned with Saudi Vision 2030 and modern enterprise technology standards.
 
 ## 🚀 Live Portfolio
-[Visit my professional portfolio here](https://yara-alalawi.vercel.app/)
+[Visit my professional portfolio here](https://yuri-portfolio-zeta.vercel.app/)
 
 ## 🛠 Tech Stack
 - **Web:** React, Tailwind CSS, Framer Motion
