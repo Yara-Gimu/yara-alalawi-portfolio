@@ -1,0 +1,12 @@
+Cloud Software Engineer & Systems Architect
+
+Focused on AWS, AI integrations, resilient backend systems, and interactive environments.
+
+Experience highlights:
+- Cloud-native asynchronous APIs with FastAPI, Python, and Supabase
+- Multimodal AI integration with image compression pipelines
+- Unity/C# systems architecture for immersive VR experiences
+- Enterprise-ready infrastructure across AWS, Docker, CI/CD, and serverless patterns
+
+Contact:
+hello@example.com
