@@ -337,9 +337,10 @@ function App() {
                     <ArrowRight className="h-4 w-4" />
                   </motion.button>
 
+                  {/* التعديل هنا: تم تغيير المسار ليتعرف على ملف الـ PDF مباشرة من مجلد الـ public */}
                   <a
-                    href="/resume.txt"
-                    download
+                    href="/Yara_Al-Alawi_Cloud_Software_Engineer.pdf"
+                    download="Yara_Al-Alawi_Cloud_Software_Engineer.pdf"
                     className="inline-flex items-center justify-center gap-2 rounded-full border border-slate-300 bg-white px-7 py-4 text-sm font-semibold text-ink transition-colors hover:border-terracotta/30 hover:text-terracotta"
                   >
                     Download Resume
